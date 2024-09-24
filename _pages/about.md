@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Undergraduate Student | Department of Computer Science, Kangwon National University #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -16,8 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently studying Computer Science at Kangwon National University.
+also, I have previously worked as an iOS developer for couple years. I am striving to develop as a developer through technical learning and problem-solving processes according to changes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are `Human-AI Interaction`, `Recommender systems` and `Human-Computer Interaction`.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+You can check my resume/CV in the link below.
+
+**[CV](https://drive.google.com/file/d/1tB-Odp3FKg4OyKlB1l_kznGIrYSd_AOs/view)**
+
+**[Resume](https://songkyung.notion.site/842c9cb102824de6813f155ebcb3f0b1)**
+
+
